@@ -32,11 +32,20 @@ To write a Python program to perform division of two complex numbers using the b
 ### PROGRAM
 
 ```
+class kavi():
+    def apk(self):
+        print((1+2,2+3))
+        
+a=kavi()
+a.apk()
 
 ```
 
 ### OUTPUT
+![image](https://github.com/user-attachments/assets/8e99113d-6e35-4ea2-9d10-9fe3c02249e9)
+
 
 
 ### RESULT
+Thus the program is done and verified.
 
