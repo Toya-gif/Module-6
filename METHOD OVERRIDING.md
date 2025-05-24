@@ -1,5 +1,5 @@
 # Exp.No:6.c
-## Encapsulation
+## EncapsulationN
 
 ---
 
